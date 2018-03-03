@@ -1,0 +1,11 @@
+  //SHOOTING GUARD = 4
+  //POWER FORWARD = 2
+  //POINT GUARD = 0
+  //CENTER = 3
+  //SMALL FORWARD = 1
+
+point guard
+small forward
+power forward
+Center
+shooting guard

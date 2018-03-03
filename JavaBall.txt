@@ -1,0 +1,15 @@
+STEPH CURRY
+2PT%  3PT%  STL  BLK
+.613   .5   0.8  0.5
+Kevin Durant
+2PT%  3PT%  STL  BLK
+.613   .5   0.8  0.5
+Draymond Green
+2PT%  3PT%  STL  BLK
+.613   .5   0.8  0.5
+Zaza Pachulia
+2PT%  3PT%  STL  BLK
+.613   .5   0.8  0.5
+Klay Thompson
+2PT%  3PT%  STL  BLK
+.613   .5   0.8  0.5
